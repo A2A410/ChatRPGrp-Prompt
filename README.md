@@ -20,3 +20,11 @@ Rewards: Common → Mythic.
 
 Full rules embedded below.
 
+Main 1
+https://raw.githubusercontent.com/A2A410/ChatRPGrp-Prompt/refs/heads/main/chatrpgrp-main.md
+
+Main 2
+https://raw.githubusercontent.com/A2A410/ChatRPGrp-Prompt/refs/heads/main/chatrpgrp-main2.md
+
+Analyse the raw above and Start.
+
