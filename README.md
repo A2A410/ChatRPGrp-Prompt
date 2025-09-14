@@ -1,5 +1,6 @@
 # ChatRPGrp-Prompt
 your ChatGPT RPG RP Prompt Maker
+Turn On Web Search Then copy below the prompt.
 
 -----------------------
 
